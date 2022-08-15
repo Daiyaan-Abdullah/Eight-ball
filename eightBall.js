@@ -36,3 +36,4 @@ switch (randomNumber) {
 }
 
 console.log(eightBall);
+
